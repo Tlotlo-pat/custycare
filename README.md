@@ -29,7 +29,7 @@ MySQL is used to store data retrived and sent through the application.The databa
 ### Framework and Tools
 Flutter is used in building the application,Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.VS Code is used as an editing tool.
 
-![flutter](../master/vs.jpeg)
+![flutter](../master/vs.jpg)
 
 ## Wireframes
 A wireframe is used to lay out content and functionality on a page which takes into account user needs and user journeys.
