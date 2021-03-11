@@ -12,5 +12,6 @@ A wireframe is used to lay out content and functionality on a page which takes i
 The following images shows the designs for our mobile application.
 
 ## Storyboards
+Storyboards allows the designer to quickly and easily add real-world contexts that involve place, people, and other potentially informative ambient artifacts.
 
 # USER MANUAL
