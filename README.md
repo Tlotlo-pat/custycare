@@ -36,6 +36,10 @@ MySQL is used to store data retrived and sent through the application.The databa
 A wireframe is used to lay out content and functionality on a page which takes into account user needs and user journeys.
 The following images shows the designs for our mobile application.
 
+![wireframe](../master/wire1.jpg)
+![wireframe](../master/wire2.jpg)
+![wireframe](../master/wire3.jpg)
+
 ## Storyboards
 Storyboards allows the designer to quickly and easily add real-world contexts that involve place, people, and other potentially informative ambient artifacts.
 
