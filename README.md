@@ -37,7 +37,9 @@ A wireframe is used to lay out content and functionality on a page which takes i
 The following images shows the designs for our mobile application.
 
 ![wireframe](../master/wire1.jpg)
+
 ![wireframe](../master/wire2.jpg)
+
 ![wireframe](../master/wire3.jpg)
 
 ## Storyboards
