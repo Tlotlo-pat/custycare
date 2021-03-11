@@ -39,4 +39,7 @@ The following images shows the designs for our mobile application.
 ## Storyboards
 Storyboards allows the designer to quickly and easily add real-world contexts that involve place, people, and other potentially informative ambient artifacts.
 
+![story](../master/str1.PNG)
+![story](../master/str2.PNG)
+
 # USER MANUAL
