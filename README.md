@@ -19,6 +19,8 @@ The mobile app has two users, the business and the customer.
 
 ## Software Architecture
 
+
+
 ### Database Design
 
 ### Framework
