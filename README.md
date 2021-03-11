@@ -49,4 +49,4 @@ Storyboards allows the designer to quickly and easily add real-world contexts th
 ![story](../master/str2.PNG)
 
 # USER MANUAL
-<a href="Tlotlo-pat.github.io/master/usermanual.pdf" target="_blank">PDF.</a>
+<a href="Tlotlo-pat.github.io/master/usermanual.pdf" target="_blank">View User Manual</a>
