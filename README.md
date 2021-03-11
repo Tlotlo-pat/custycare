@@ -21,15 +21,16 @@ The mobile app has two users, the business and the customer.
 
 ![architecture](../master/Architecture.png)
 
+### Framework and Tools
+Flutter is used in building the application,Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.VS Code is used as an editing tool.
+
+![flutter](../master/vs.jpg)
 
 ### Database Design
 MySQL is used to store data retrived and sent through the application.The database will be created in PhpMyAdmin.The business,customer,service,product tables will be created.
 ![database](../master/database.PNG)
 
-### Framework and Tools
-Flutter is used in building the application,Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.VS Code is used as an editing tool.
 
-![flutter](../master/vs.jpg)
 
 ## Wireframes
 A wireframe is used to lay out content and functionality on a page which takes into account user needs and user journeys.
