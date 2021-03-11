@@ -24,7 +24,7 @@ The mobile app has two users, the business and the customer.
 
 ### Database Design
 MySQL is used to store data retrived and sent through the application.The database will be created in PhpMyAdmin.The business,customer,service,product tables will be created.
-![database](../master/database.png)
+![database](../master/database.PNG)
 
 ### Framework
 Flutter is used in building the application.Mysql is used as backend in the application.Below is a code snippet on how you connect flutter to mysql.
