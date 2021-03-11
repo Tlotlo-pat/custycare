@@ -10,6 +10,7 @@ Presented here are the use cases and class diagrams.
 
 ### Use Cases
 The mobile app has two users, the business and the customer.
+
 ![use case](../master/1.PNG)
 
 ## Wireframes
