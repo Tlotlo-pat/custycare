@@ -23,8 +23,10 @@ The mobile app has two users, the business and the customer.
 
 
 ### Database Design
+MySQL is used to store data retrived and sent through the application.The database will be created in PhpMyAdmin.The business,customer,service,product tables will be created.
 
 ### Framework
+Flutter is used in building the application.Mysql is used as backend in the application.Below is a code snippet on how you can flutter to mysql.
 
 ## Wireframes
 A wireframe is used to lay out content and functionality on a page which takes into account user needs and user journeys.
