@@ -13,6 +13,13 @@ The mobile app has two users, the business and the customer.
 
 ![use case](../master/use.jpg)
 
+### Class Diagram
+
+## Software Architecture
+
+###Database Design
+###Framework
+
 ## Wireframes
 A wireframe is used to lay out content and functionality on a page which takes into account user needs and user journeys.
 The following images shows the designs for our mobile application.
