@@ -10,7 +10,7 @@ Presented here are the use cases and class diagrams.
 
 ### Use Cases
 The mobile app has two users, the business and the customer.
-
+![use case](../master/1.PNG)
 
 ## Wireframes
 A wireframe is used to lay out content and functionality on a page which takes into account user needs and user journeys.
