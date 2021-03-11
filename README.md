@@ -6,3 +6,13 @@ An application that can be utilised by SME to perform numerous activities that i
 ![screen](../master/jany2.PNG) 
 ![screen](../master/jany3.PNG)
 ![screen](../master/jany4.PNG)
+
+# DESIGN 
+
+## UML Diagrams
+
+## Wireframes
+
+## Storyboards
+
+# USER MANUAL
