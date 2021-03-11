@@ -6,6 +6,11 @@ An application that can be utilised by SME to perform numerous activities that i
 All sections of the product design will be covered in this section.
 
 ## UML Diagrams
+Presented here are the use cases and class diagrams.
+
+### Use Cases
+The mobile app has two users, the business and the customer.
+
 
 ## Wireframes
 A wireframe is used to lay out content and functionality on a page which takes into account user needs and user journeys.
