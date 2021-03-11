@@ -19,7 +19,7 @@ The mobile app has two users, the business and the customer.
 
 ## Software Architecture
 
-![use case](../master/Architecture.PNG)
+![architecture](../master/Architecture.png)
 
 
 ### Database Design
